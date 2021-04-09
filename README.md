@@ -10,3 +10,4 @@
 - [Kommit](https://kommit.rosano.ca): Flashcards with text-to-speech.
 - [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 - [Emoji Log](https://emojilog.rosano.ca): Personal tracker.
+- [0data Proof](https://proof.0data.app): Sample app that integrates with multiple protocols.
