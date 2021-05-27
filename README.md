@@ -12,3 +12,4 @@
 - [Emoji Log](https://emojilog.rosano.ca): Personal tracker.
 - [0data Proof](https://proof.0data.app): Sample app that integrates with multiple protocols.
 - [Joybox](https://joybox.rosano.ca): A pinboard for media.
+- [Milione](https://milione.fission.app): A web native photo explorer
