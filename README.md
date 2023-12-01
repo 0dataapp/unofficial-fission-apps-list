@@ -13,3 +13,4 @@
 - [0data Proof](https://proof.0data.app): Sample app that integrates with multiple protocols.
 - [Joybox](https://joybox.rosano.ca): A pinboard for media.
 - [Milione](https://milione.fission.app): A web native photo explorer
+- [Hello](https://hello.0data.app): Simple Hello World for 0data protocols.
